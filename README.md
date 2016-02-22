@@ -52,6 +52,7 @@
     * [jQuery](#jquery)
     * [Node.js](#nodejs)
     * [express](#express)
+    * [React](#react)
     * [underscore.js](#underscore)
     * [es6](#es6)
 * [LaTeX](#latex)
@@ -275,6 +276,9 @@
 
 ###angular
 * [angularjs](www.cheatography.com/proloser/cheat-sheets/angularjs/)
+
+###React
+* [React](http://reactcheatsheet.com/)
         
 ###ember
 * [ember-js](www.cheatography.com/mwore/cheat-sheets/ember-js/)
